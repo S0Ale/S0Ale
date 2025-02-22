@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S0Ale
 - 👀 I’m interested in video games, programming and reading books (mainly sci-fi stories),
-- 🌱 I’m currently learning how to code at Unige, in Genoa (Italy)
+- 🌱 Bachelor's degree in computer science, Unige (Genoa, Italy)
 - 📫 Here's my mail: pelizzoni_sale@protonmail.com
 - [Website](https://s0ale.github.io/alessiopelizzoni/)
 
