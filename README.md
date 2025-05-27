@@ -2,7 +2,7 @@
 - 👀 I’m interested in video games, programming and reading books (mainly sci-fi stories),
 - 🌱 Bachelor's degree in computer science, Unige (Genoa, Italy)
 - 📫 Here's my mail: pelizzoni_sale@protonmail.com
-- [Website](https://s0ale.github.io/alessiopelizzoni/)
+- [Website](s0ale@duck.com)
 
 <!---
 S0Ale/S0Ale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
